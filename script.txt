@@ -1,24 +1,24 @@
 1 - How we can access HTML Elements using DOM in Javascript ?
 
 The mostly used ways to access HTML elements using DOM are given below:
-a - document.getElementById("")-- -> used to get element with a "id" attribute
-b - document.querySelector("")-- -> return the frist element for the given CSS selector, Efficeint Version
-c - document.querySelectorAll("")-- -> return the all elements inside an element matching the given CSS selector
-d - document.getElementsByClassName("")-- -> used to get element with a "class" attribute
-e - document.getElementsByName("")-- -> searches element by name attribute
-f - document.getElementsByTagName("")-- -> return element with given tagName
-g - document.getElementsByTagNameNS(namespace, name)-- -> return a list of elements with the given tagName belonging to the given nameSpace
+a - document.getElementById("")-- -> used to get element with a "id" attribute.
+b - document.querySelector("")-- -> return the frist element for the given CSS selector, Efficeint Version.
+c - document.querySelectorAll("")-- -> return the all elements inside an element matching the given CSS selector.
+d - document.getElementsByClassName("")-- -> used to get element with a "class" attribute.
+e - document.getElementsByName("")-- -> searches element by name attribute.
+f - document.getElementsByTagName("")-- -> return element with given tagName.
+g - document.getElementsByTagNameNS(namespace, name)-- -> return a list of elements with the given tagName belonging to the given nameSpace.
 
 
 2 - What are the activities we can perform using DOM ?
 
-a - JavaScript can change all the HTML elements in the page
-b - JavaScript can change all the HTML attributes in the page
-c - JavaScript can change all the CSS styles in the page
-d - JavaScript can remove existing HTML elements and attributes
-e - JavaScript can add new HTML elements and attributes
-f - JavaScript can react to all existing HTML events in the page
-g - JavaScript can create new HTML events in the page
+a - JavaScript can change all the HTML elements in the page.
+b - JavaScript can change all the HTML attributes in the page.
+c - JavaScript can change all the CSS styles in the page.
+d - JavaScript can remove existing HTML elements and attributes.
+e - JavaScript can add new HTML elements and attributes.
+f - JavaScript can react to all existing HTML events in the page.
+g - JavaScript can create new HTML events in the page.
 
 
 3 - What are event - listeners in DOM ?
